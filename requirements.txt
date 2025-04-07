@@ -1,4 +1,6 @@
-numpy
-pandas
-requests
-pytest
+langchain==0.1.14
+pydantic==1.10.12
+streamlit
+groq
+python-dotenv
+youtube-transcript-api
