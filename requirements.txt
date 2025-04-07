@@ -1,6 +1,6 @@
+streamlit==1.32.2
 langchain==0.1.14
-pydantic==1.10.12
-streamlit
-groq
-python-dotenv
-youtube-transcript-api
+openai==1.13.3
+pydantic==1.10.13
+zstandard==0.23.0
+tiktoken==0.6.0
